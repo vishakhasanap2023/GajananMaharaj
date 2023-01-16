@@ -1,0 +1,42 @@
+.A1{
+ width: auto;
+ height: 50%;
+ background-color: crimson;
+ display: flex;
+ flex-direction: row;
+}
+
+.B1{
+    width: auto;
+    height: 50%;
+    background-color: blueviolet;
+}
+
+.A11, .A12, .A13, .A14, .A15{
+    float: left;
+    width:30%;
+    height: 50%;
+}
+
+.A11{
+    background-color: aqua;
+}
+
+
+.A12{
+    background-color: rgb(153, 219, 30);
+}
+
+
+.A13{
+    background-color: rgb(209, 104, 118);
+}
+
+
+.A14{
+    background-color: #180b86;
+}
+
+.A15{
+    background-color: rgb(148, 143, 140);
+}

@@ -1,0 +1,30 @@
+.homepageMasterImg{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.homepageMasterImg img{
+    height: 300px;
+    width: 300px;
+}
+
+.A {
+    width: 50%;
+    height: 500px;
+    float: left;
+    background-color: red;
+}
+.B {
+ width: 50%;
+ height: 500px;
+ background-color: green;
+ float: left;
+ position: relative;
+}
+
+body {
+    background-color:#4A330C;
+}
